@@ -41,7 +41,7 @@ namespace Odev
 
 
                 Console.WriteLine("------------------------");
-                System.Console.WriteLine("{0} ve {1} Sayıları'nın arasındaki toplamı: {2}", number1, number2, totalSum);
+                System.Console.WriteLine("{0} ve {1} Sayıları'nın arasındaki toplam: {2}", number1, number2, totalSum);
                 Console.WriteLine("------------------------");
 
 
