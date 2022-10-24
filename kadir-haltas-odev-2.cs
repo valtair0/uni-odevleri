@@ -23,11 +23,10 @@ namespace Odev
 
             Console.ReadLine();
             */
-            //---------------------------------------------------
+            
+            
 
-
-
-           //ÇÖZÜMÜ
+            //ÇÖZÜMÜ
             Console.Write("Sayıyı Giriniz: ");
             int sayi = Convert.ToInt32(Console.ReadLine());
             int sonBolunenSayi=0;
